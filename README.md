@@ -1,6 +1,12 @@
+
 # 💜 Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing my technical skills, projects, research publications, certifications, and educational background in Artificial Intelligence and Machine Learning.
+## 🌐 Live Demo
+
+**Live Website:** [View My Portfolio](https://personal-portfolio-theta-two-84.vercel.app/)
+
+**GitHub Repository:** [personal-portfolio](https://github.com/mateenasadaf/personal-portfolio)
 
 ## ✨ Features
 
